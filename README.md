@@ -4,7 +4,5 @@
 
 ## Exersices
 
- [Calculate Intrest Rate] (CalcIntrest.c)
-_
-
+ [Calculate Intrest Rate](CalcIntrest.c)
 
